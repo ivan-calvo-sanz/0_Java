@@ -1,0 +1,70 @@
+*********************************************
+** SIMULACIÓN DE ADIVINAR EL NÚMERO
+** Hay que adivinar un numero entre 1 y 1000
+** El número ha adivinar es 263
+** El número de jugadores es 1000
+*********************************************
+Jugador 1 juega 640
+     Es mayor que 263
+Jugador 2 juega 517
+     Es mayor que 263
+Jugador 3 juega 306
+     Es mayor que 263
+Jugador 4 juega 222
+     Es menor que 263
+Jugador 5 juega 281
+     Es mayor que 263
+Jugador 6 juega 226
+     Es menor que 263
+Jugador 7 juega 254
+     Es menor que 263
+Jugador 8 juega 274
+     Es mayor que 263
+Jugador 9 juega 271
+     Es mayor que 263
+Jugador 10 juega 265
+     Es mayor que 263
+Jugador 11 juega 260
+     Es menor que 263
+Jugador 12 juega 261
+     Es menor que 263
+Jugador 13 juega 262
+     Es menor que 263
+Jugador 14 juega 263
+     Es igual que 263
+Ha ganado el jugador 14
+*********************************************
+***********FIN DE LA SIMULACION**************
+*********************************************
+*********************************************
+** SIMULACIÓN DE ADIVINAR EL NÚMERO
+** Hay que adivinar un numero entre 1 y 2
+** El número a adivinar es 1
+** El número de jugadores es 5
+*********************************************
+Jugador 1 juega 1
+     Es igual que 1
+Ha ganado el jugador 1
+*********************************************
+***********FIN DE LA SIMULACION**************
+*********************************************
+*********************************************
+** SIMULACIÓN DE ADIVINAR EL NÚMERO
+** Hay que adivinar un numero entre 1 y 100
+** El número a adivinar es 2
+** El número de jugadores es 2
+*********************************************
+Jugador 1 juega 21
+     Es mayor que 2
+Jugador 2 juega 12
+     Es mayor que 2
+Jugador 1 juega 6
+     Es mayor que 2
+Jugador 2 juega 4
+     Es mayor que 2
+Jugador 1 juega 2
+     Es igual que 2
+Ha ganado el jugador 1
+*********************************************
+***********FIN DE LA SIMULACION**************
+*********************************************
