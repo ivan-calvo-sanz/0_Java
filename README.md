@@ -4,8 +4,6 @@ Aquí vas a encontrar toda la teoría y ejercicios prácticos que he ido realiza
 
 Finalmente puedes ver mis Aplicaciones.
 
----
-
 ## TEORIA Y EJERCICIOS
 
 - #### Biblioteca_CalvoSanzIvan
@@ -14,8 +12,6 @@ _Funciones genericas que he realizado para su reutilización_
 
 - #### Ejercicios_Java_Ciclo_Superior_DAW
 
-_Ejercicios que he realizado en el Grado Superior_
-
----
+_Ejercicios y Exámenes que he realizado en el Grado Superior_
 
 ## APLICACIONES
